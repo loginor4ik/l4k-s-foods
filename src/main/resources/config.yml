@@ -1,0 +1,6 @@
+# Первый (почти) самопис от loginor4ik
+
+chickenFootName: "Куриная ножка"
+chickenFootColor: "GOLD"
+saturationEffectDuration: 1200 # Настройка времени эффекта от куриной ножки (В тиках)
+customModelData: 3000 # Для установки текстурки из ресурс пака
